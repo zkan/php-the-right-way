@@ -16,15 +16,15 @@ standards, and links to authoritative tutorials around the Web.
 
 _PHP: The Right Way_ ได้ถูกแปลไปเป็นภาษาต่างๆ มากมาย ดังนี้
 
-* [English](http://www.phptherightway.com)
-* [Chinese](http://wulijun.github.com/php-the-right-way)
-* [Japanese](http://ja.phptherightway.com)
-* Polish (Coming Soon)
-* Portuguese (Coming Soon)
-* Russian (Coming Soon)
-* [Spanish](http://es.phptherightway.com)
-* [Ukrainian](http://iflista.github.com/php-the-right-way/)
-* Thai (Coming Soon)
+* [ภาษาอังกฤษ](http://www.phptherightway.com)
+* [ภาษาจีน](http://wulijun.github.com/php-the-right-way)
+* [ภาษาญี่ปุ่น](http://ja.phptherightway.com)
+* ภาษาโปแลนด์ (Coming Soon)
+* ภาษาโปรตุเกส (Coming Soon)
+* ภาษารัสเซีย (Coming Soon)
+* [ภาษาสเปน](http://es.phptherightway.com)
+* [ภาษายูเครน](http://iflista.github.com/php-the-right-way/)
+* ภาษาไทย (Coming Soon)
 
 <!--
 ## Translations
